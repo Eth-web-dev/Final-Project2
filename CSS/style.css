@@ -13,7 +13,7 @@
   min-height: 500px;
   width: 100%;
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url(./Imgs/foods_view.jpg);
+    url(../Imgs/foods_view.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -273,7 +273,7 @@ nav img {
   min-height: 500px;
   width: 100%;
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url(/Imgs/coffee\ .jpg);
+    url(../Imgs/coffee\ .jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -283,7 +283,7 @@ nav img {
   min-height: 500px;
   width: 100%;
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url(/Imgs/beyeaynetu.jpg);
+    url(../Imgs/beyeaynetu.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
